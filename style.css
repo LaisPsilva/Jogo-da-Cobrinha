@@ -1,0 +1,25 @@
+body{
+    font-family: 'Sarala', sans-serif;
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(9, 9, 9);
+    font-size: 100%;
+    background: linear-gradient(68.15deg, #2f0139 16.62%, #feb4dc 85.61%);
+    
+
+}
+
+.Cabeçalho-imagem {
+    height: 72px;
+
+}
+.conteudo-pricipal-escrito-subtitulo{
+    font-family: 'Sarala', sans-serif;
+    font-weight: 100;
+    font-size: 20px;
+    color: #FFF2E7;
+}
